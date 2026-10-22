@@ -1,0 +1,344 @@
+[
+  {
+    "id": "P01",
+    "scenes": [
+      "S01"
+    ],
+    "caption": "Di tích nhà quê ngoại tại Hoàng Trù.",
+    "note": "Ảnh di tích trong bài đăng năm 2019; không phải ảnh chụp năm 1890.",
+    "file": "media/images/p01.jpg",
+    "url": "https://baotanghochiminh.vn/khu-di-tich-lich-su-quoc-gia-dac-biet-kim-lien-phat-huy-gia-tri-di-san-van-hoa-ve-chu-tich-ho-chi-minh.htm",
+    "imageUrl": "https://baotanghochiminh.vn/pic/News/images/Ng%C3%B4i%20nh%C3%A0%203%20gian%20n%C6%A1i%20sinh%20ra%20B%C3%A1c.jpg",
+    "credit": "Bảo tàng Hồ Chí Minh",
+    "rights": "Trang nguồn không nêu giấy phép mở riêng cho ảnh. Bản sao dùng trong gói trình chiếu; chưa xác nhận quyền tái xuất bản công khai.",
+    "checked": "2026-10-07",
+    "size": [
+      700,
+      432
+    ]
+  },
+  {
+    "id": "P02",
+    "scenes": [
+      "S02"
+    ],
+    "caption": "Di tích nhà quê nội tại Kim Liên.",
+    "note": "Ảnh di tích trong bài đăng năm 2019; không phải ảnh chụp năm 1901.",
+    "file": "media/images/p02.jpg",
+    "url": "https://baotanghochiminh.vn/khu-di-tich-lich-su-quoc-gia-dac-biet-kim-lien-phat-huy-gia-tri-di-san-van-hoa-ve-chu-tich-ho-chi-minh.htm",
+    "imageUrl": "https://baotanghochiminh.vn/pic/News/images/Que%20noi.jpg",
+    "credit": "Bảo tàng Hồ Chí Minh",
+    "rights": "Trang nguồn không nêu giấy phép mở riêng cho ảnh. Bản sao dùng trong gói trình chiếu; chưa xác nhận quyền tái xuất bản công khai.",
+    "checked": "2026-10-07",
+    "size": [
+      1366,
+      911
+    ]
+  },
+  {
+    "id": "P03",
+    "scenes": [
+      "S04"
+    ],
+    "caption": "Tàu buôn Amiral Latouche-Tréville.",
+    "note": "Ảnh nhận diện con tàu do bảo tàng đăng; không khẳng định là khoảnh khắc rời bến 5/6/1911.",
+    "file": "media/images/p03.jpg",
+    "url": "https://baotanghochiminh.vn/hanh-trinh-cua-con-tau-amiral-latouche-treville-dua-nguyen-tat-thanh-ra-di-tim-duong-cuu-nuoc.htm",
+    "imageUrl": "https://baotanghochiminh.vn/pic/Customer/images/N%C4%83m%202021/Th%C3%A1ng%206/image001.jpg",
+    "credit": "Bảo tàng Hồ Chí Minh",
+    "rights": "Trang nguồn không nêu giấy phép mở riêng cho ảnh. Bản sao dùng trong gói trình chiếu; chưa xác nhận quyền tái xuất bản công khai.",
+    "checked": "2026-10-07",
+    "size": [
+      1366,
+      699
+    ]
+  },
+  {
+    "id": "P04",
+    "scenes": [
+      "S08"
+    ],
+    "caption": "Yêu sách của nhân dân An Nam · bản in năm 1919.",
+    "note": "Ký hiệu lưu trữ FR ANOM SLOTFOM XV 1. Ảnh số hóa: Atelier photographique des ANOM.",
+    "file": "media/images/p04.jpg",
+    "url": "https://archives-nationales-outre-mer.culture.gouv.fr/ar/node/153",
+    "imageUrl": "https://s3.fr-par.scw.cloud/anom-p0-bucket/anom-public/styles/max_1200x900/public/mediatheque/images/2024-11/franom60_4015col1_0128.jpg?VersionId=1774364680523772&itok=yRIHy6hg",
+    "credit": "Archives nationales d’outre-mer · Atelier photographique des ANOM",
+    "rights": "Trang nguồn không nêu giấy phép mở riêng cho ảnh. Bản sao dùng trong gói trình chiếu; chưa xác nhận quyền tái xuất bản công khai.",
+    "checked": "2026-10-07",
+    "size": [
+      712,
+      900
+    ]
+  },
+  {
+    "id": "P05",
+    "scenes": [
+      "S10"
+    ],
+    "caption": "Nguyễn Ái Quốc tại Đại hội Tours · tháng 12/1920.",
+    "note": "Ảnh tư liệu; niên đại theo chú thích của Bảo tàng Lịch sử quốc gia.",
+    "file": "media/images/p05.jpg",
+    "url": "https://baotanglichsuquocgia.vn/en/Articles/4225/document-photo",
+    "imageUrl": "https://baotanglichsuquocgia.vn/DataFiles/asset/upload/hien-vat-va-tu-lieu/1f.jpg",
+    "credit": "Bảo tàng Lịch sử quốc gia",
+    "rights": "Trang nguồn không nêu giấy phép mở riêng cho ảnh. Bản sao dùng trong gói trình chiếu; chưa xác nhận quyền tái xuất bản công khai.",
+    "checked": "2026-10-07",
+    "size": [
+      1800,
+      1350
+    ]
+  },
+  {
+    "id": "P06",
+    "scenes": [
+      "S11"
+    ],
+    "caption": "Le Paria · chi tiết số báo ngày 1/8/1922.",
+    "note": "FR ANOM SLOTFOM V. Chi tiết bản báo do ANOM công bố; có tranh ký tên Nguyễn Ái Quốc.",
+    "file": "media/images/p06.jpg",
+    "url": "https://archives-nationales-outre-mer.culture.gouv.fr/ar/node/153",
+    "imageUrl": "https://s3.fr-par.scw.cloud/anom-p0-bucket/anom-public/styles/max_1200x900/public/mediatheque/images/2024-11/franom_5slotfom_le-paria_1_aout_1922_r.jpg?VersionId=1774364741391504&itok=CFPH65gp",
+    "credit": "Archives nationales d’outre-mer · Atelier photographique des ANOM",
+    "rights": "Trang nguồn không nêu giấy phép mở riêng cho ảnh. Bản sao dùng trong gói trình chiếu; chưa xác nhận quyền tái xuất bản công khai.",
+    "checked": "2026-10-07",
+    "size": [
+      979,
+      900
+    ]
+  },
+  {
+    "id": "P07",
+    "scenes": [
+      "S14"
+    ],
+    "caption": "Báo Thanh Niên · số ngày 3/10/1926.",
+    "note": "Đây là số báo năm 1926, không phải số đầu ngày 21/6/1925.",
+    "file": "media/images/p07.jpg",
+    "url": "https://baotanglichsu.vn/vi/Articles/3097/18248/thanh-nien-to-bao-cach-mang-do-lanh-tu-nguyen-ai-quoc-sang-lap-nam-1925.html",
+    "imageUrl": "https://baotanglichsu.vn/DataFiles/Uploaded/image/data%20Hung/thang%206%20nam%202015/thanh%20nien%20to%20bao%20cach%20mang%20do%20lanh%20tu%20nguyen%20ai%20quoc%20sang%20lap/1.jpg",
+    "credit": "Bảo tàng Lịch sử quốc gia",
+    "rights": "Trang nguồn không nêu giấy phép mở riêng cho ảnh. Bản sao dùng trong gói trình chiếu; chưa xác nhận quyền tái xuất bản công khai.",
+    "checked": "2026-10-07",
+    "size": [
+      360,
+      480
+    ]
+  },
+  {
+    "id": "P08",
+    "scenes": [
+      "S14"
+    ],
+    "caption": "Bìa tác phẩm Đường Kách mệnh · năm 1927.",
+    "note": "Ảnh hiện vật do Bảo tàng Lịch sử quốc gia lưu giữ. Tác giả Nguyễn Ái Quốc; khác cuốn tiểu thuyết Bút Ngữ.",
+    "file": "media/images/p08.jpg",
+    "url": "https://baotanglichsu.vn/vi/Articles/3101/71483/ba-bao-vat-quoc-gia-di-san-vo-gia-cua-chu-tich-ho-chi-minh-tai-bao-tang-lich-su-quoc-gia.html",
+    "imageUrl": "https://baotanglichsu.vn/DataFiles/2020/05/News/Thang 5 nam 2020/ba bao vat quoc gia/01.jpg",
+    "credit": "Bảo tàng Lịch sử quốc gia",
+    "rights": "Trang nguồn không nêu giấy phép mở riêng cho ảnh. Bản sao dùng trong gói trình chiếu; chưa xác nhận quyền tái xuất bản công khai.",
+    "checked": "2026-10-07",
+    "size": [
+      360,
+      480
+    ]
+  },
+  {
+    "id": "P11",
+    "scenes": [
+      "S21"
+    ],
+    "caption": "Bìa bản Nhật ký trong tù được bảo tàng lưu giữ.",
+    "note": "Ảnh hiện vật; mốc giam giữ trong lời kể là 1942–1943. Không dùng số năm ghi trên bìa để thay mốc tiểu sử.",
+    "file": "media/images/p11.jpg",
+    "url": "https://baotanglichsu.vn/vi/Articles/3101/71483/ba-bao-vat-quoc-gia-di-san-vo-gia-cua-chu-tich-ho-chi-minh-tai-bao-tang-lich-su-quoc-gia.html",
+    "imageUrl": "https://baotanglichsu.vn/DataFiles/2020/05/News/Thang 5 nam 2020/ba bao vat quoc gia/03.jpg",
+    "credit": "Bảo tàng Lịch sử quốc gia",
+    "rights": "Trang nguồn không nêu giấy phép mở riêng cho ảnh. Bản sao dùng trong gói trình chiếu; chưa xác nhận quyền tái xuất bản công khai.",
+    "checked": "2026-10-07",
+    "size": [
+      363,
+      480
+    ]
+  },
+  {
+    "id": "P12",
+    "scenes": [
+      "S22"
+    ],
+    "caption": "Lễ thành lập Đội Việt Nam Tuyên truyền Giải phóng quân · 22/12/1944.",
+    "note": "Rừng Trần Hưng Đạo, Cao Bằng. Không chú thích Hồ Chí Minh có mặt trong ảnh.",
+    "file": "media/images/p12.jpg",
+    "url": "https://baotanglichsuquocgia.vn/en/Articles/4225/document-photo",
+    "imageUrl": "https://baotanglichsuquocgia.vn/DataFiles/asset/upload/hien-vat-va-tu-lieu/bc-4.jpg",
+    "credit": "Bảo tàng Lịch sử quốc gia",
+    "rights": "Trang nguồn không nêu giấy phép mở riêng cho ảnh. Bản sao dùng trong gói trình chiếu; chưa xác nhận quyền tái xuất bản công khai.",
+    "checked": "2026-10-07",
+    "size": [
+      697,
+      523
+    ]
+  },
+  {
+    "id": "P13",
+    "scenes": [
+      "S23"
+    ],
+    "caption": "Chỉ thị Nhật–Pháp bắn nhau và hành động của chúng ta.",
+    "note": "Ảnh tài liệu trong bộ sưu tập về Cách mạng tháng Tám của Bảo tàng Lịch sử quốc gia.",
+    "file": "media/images/p13.jpg",
+    "url": "https://baotanglichsu.vn/vi/Articles/3090/71672/bao-tang-lich-su-quoc-gia-voi-viec-nghien-cuu-bao-ton-va-phat-huy-gia-tri-di-san-ve-cach-mang-thang-tam-nam-1945.html",
+    "imageUrl": "https://baotanglichsu.vn/DataFiles/2020/08/News/Thang 8 nam 2020/bao tang lich su quoc gia voi viec bao ton va phat huy/2.jpg",
+    "credit": "Bảo tàng Lịch sử quốc gia",
+    "rights": "Trang nguồn không nêu giấy phép mở riêng cho ảnh. Bản sao dùng trong gói trình chiếu; chưa xác nhận quyền tái xuất bản công khai.",
+    "checked": "2026-10-07",
+    "size": [
+      480,
+      334
+    ]
+  },
+  {
+    "id": "P14",
+    "scenes": [
+      "S24"
+    ],
+    "caption": "Nhân dân Hà Nội giành Phủ Khâm sai · 19/8/1945.",
+    "note": "Sự kiện Hà Nội; không đại diện cho cùng ngày giành chính quyền ở mọi địa phương.",
+    "file": "media/images/p14.jpg",
+    "url": "https://baotanglichsuquocgia.vn/en/Articles/4225/document-photo",
+    "imageUrl": "https://baotanglichsuquocgia.vn/DataFiles/asset/upload/hien-vat-va-tu-lieu/a6_2.jpg",
+    "credit": "Bảo tàng Lịch sử quốc gia",
+    "rights": "Trang nguồn không nêu giấy phép mở riêng cho ảnh. Bản sao dùng trong gói trình chiếu; chưa xác nhận quyền tái xuất bản công khai.",
+    "checked": "2026-10-07",
+    "size": [
+      1800,
+      1350
+    ]
+  },
+  {
+    "id": "P15",
+    "scenes": [
+      "S25"
+    ],
+    "caption": "Lễ Độc lập tại Ba Đình · 2/9/1945.",
+    "note": "Ảnh tư liệu theo chú thích của Bảo tàng Lịch sử quốc gia.",
+    "file": "media/images/p15.jpg",
+    "url": "https://baotanglichsuquocgia.vn/en/Articles/4225/document-photo",
+    "imageUrl": "https://baotanglichsuquocgia.vn/DataFiles/asset/upload/hien-vat-va-tu-lieu/a6_3.jpg",
+    "credit": "Bảo tàng Lịch sử quốc gia",
+    "rights": "Trang nguồn không nêu giấy phép mở riêng cho ảnh. Bản sao dùng trong gói trình chiếu; chưa xác nhận quyền tái xuất bản công khai.",
+    "checked": "2026-10-07",
+    "size": [
+      1800,
+      1350
+    ]
+  },
+  {
+    "id": "P16",
+    "scenes": [
+      "S26"
+    ],
+    "caption": "Hồ Chí Minh tại kỳ họp đầu tiên Quốc hội khóa I · 2/3/1946.",
+    "note": "Ảnh kỳ họp sau Tổng tuyển cử 6/1/1946; hai ngày được phân biệt.",
+    "file": "media/images/p16.jpg",
+    "url": "https://baotanglichsuquocgia.vn/en/Articles/4225/document-photo",
+    "imageUrl": "https://baotanglichsuquocgia.vn/DataFiles/asset/upload/hien-vat-va-tu-lieu/a10.jpg",
+    "credit": "Bảo tàng Lịch sử quốc gia",
+    "rights": "Trang nguồn không nêu giấy phép mở riêng cho ảnh. Bản sao dùng trong gói trình chiếu; chưa xác nhận quyền tái xuất bản công khai.",
+    "checked": "2026-10-07",
+    "size": [
+      1800,
+      1350
+    ]
+  },
+  {
+    "id": "P17",
+    "scenes": [
+      "S27"
+    ],
+    "caption": "Bản thảo Lời kêu gọi toàn quốc kháng chiến · 1946.",
+    "note": "Ảnh di cảo được Bảo tàng Lịch sử quốc gia lưu giữ.",
+    "file": "media/images/p17.jpg",
+    "url": "https://baotanglichsu.vn/vi/Articles/3101/71483/ba-bao-vat-quoc-gia-di-san-vo-gia-cua-chu-tich-ho-chi-minh-tai-bao-tang-lich-su-quoc-gia.html",
+    "imageUrl": "https://baotanglichsu.vn/DataFiles/2020/05/News/Thang 5 nam 2020/ba bao vat quoc gia/04.jpg",
+    "credit": "Bảo tàng Lịch sử quốc gia",
+    "rights": "Trang nguồn không nêu giấy phép mở riêng cho ảnh. Bản sao dùng trong gói trình chiếu; chưa xác nhận quyền tái xuất bản công khai.",
+    "checked": "2026-10-07",
+    "size": [
+      480,
+      373
+    ]
+  },
+  {
+    "id": "P09",
+    "scenes": [
+      "S19"
+    ],
+    "caption": "Suối Lê-nin ở Pác Bó · ảnh năm 2012.",
+    "credit": "Thanh Tùng / TTXVN · Báo Tin tức",
+    "note": "Ảnh địa điểm năm 2012; không phải ảnh chụp khi trở về năm 1941.",
+    "file": "media/images/p09.jpg",
+    "url": "https://baotintuc.vn/phong-canh-son-thuy-huu-tinh-cua-pac-bo-post485020.html",
+    "imageUrl": "https://media3.baotintuc.vn/images/oNJHb70uQWUmmhwymRuK-54BpGIXZ_v-KJsYMGfJIO0/bb7.jpg.avif",
+    "rights": "Nguồn không nêu giấy phép mở; chưa xác nhận quyền tái xuất bản công khai.",
+    "checked": "2026-10-07",
+    "size": [
+      550,
+      367
+    ]
+  },
+  {
+    "id": "P10",
+    "scenes": [
+      "S20"
+    ],
+    "caption": "Khách tham quan bàn đá tại Pác Bó · ảnh năm 2012.",
+    "credit": "Thanh Tùng / TTXVN · Báo Tin tức",
+    "note": "Ảnh tham quan di tích năm 2012, không phải ảnh Hội nghị Trung ương 8.",
+    "file": "media/images/p10.jpg",
+    "url": "https://baotintuc.vn/phong-canh-son-thuy-huu-tinh-cua-pac-bo-post485020.html",
+    "imageUrl": "https://media3.baotintuc.vn/images/oNJHb70uQWUmmhwymRuK-6gbcU1HuCl5XvOYqMCu_MQ/bb4.jpg.avif",
+    "rights": "Nguồn không nêu giấy phép mở; chưa xác nhận quyền tái xuất bản công khai.",
+    "checked": "2026-10-07",
+    "size": [
+      550,
+      389
+    ]
+  },
+  {
+    "id": "P19",
+    "scenes": [
+      "S29"
+    ],
+    "caption": "Hồ Chí Minh tại phòng làm việc nhà 54 · tháng 4/1957.",
+    "credit": "Bảo tàng Hồ Chí Minh",
+    "note": "Ảnh tư liệu năm 1957 theo chú thích bảo tàng.",
+    "file": "media/images/p19.jpg",
+    "url": "https://baotanghochiminh.vn/nua-the-ky-luu-tru-giu-gin-va-xuat-ban-di-chuc-bac-ho.htm",
+    "imageUrl": "https://baotanghochiminh.vn/pic/Customer/images/anh4-1748.jpg",
+    "rights": "Nguồn không nêu giấy phép mở; chưa xác nhận quyền tái xuất bản công khai.",
+    "checked": "2026-10-07",
+    "size": [
+      1091,
+      768
+    ]
+  },
+  {
+    "id": "P18",
+    "scenes": [
+      "S30"
+    ],
+    "file": "media/images/p18.jpg",
+    "caption": "Một trang bút tích trong bản Di chúc sửa chữa năm 1968.",
+    "credit": "Tư liệu do UEH đăng, bản PDF “Bản Tuyệt đối bí mật — Di chúc Bác sửa chữa năm 1968”",
+    "note": "Ảnh trích nguyên vẹn từ trang PDF số 2, giữ cả các dòng sửa chữa; không phải bản gõ lại.",
+    "url": "https://cpv.ueh.edu.vn/files/tu-lieu-ve-bac/ban%20di%20chuc%20bac%20sua%20chua%20nam%201968.pdf",
+    "imageUrl": "",
+    "rights": "Nguồn không nêu giấy phép mở; chưa xác nhận quyền tái xuất bản công khai.",
+    "checked": "2026-10-07",
+    "size": [
+      500,
+      719
+    ]
+  }
+]
